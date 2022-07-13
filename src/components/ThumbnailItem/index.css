@@ -1,0 +1,19 @@
+/* Write your code here. */
+.btn-Logo {
+  width: 80px;
+  border-radius: 4px;
+}
+
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+.listItem {
+  list-style-type: none;
+  opacity: 0.5;
+}
+.list {
+  list-style-type: none;
+  opacity: 1;
+}
